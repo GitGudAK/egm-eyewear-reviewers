@@ -23,5 +23,4 @@ Add a sixth line only if it closely resembles one specific real product or shows
 # Notes
 
 - Run several fresh viewers, each on a different single render (for example front three-quarter, front, rear three-quarter, close-up). Never show one viewer more than one image.
-- The useful signal is agreement. When most viewers name the same wrong object ("smart glasses with a camera"), the shape is sending that message, whatever the design doc says.
 - Start from round 1. A misreading found late is expensive to undo.
